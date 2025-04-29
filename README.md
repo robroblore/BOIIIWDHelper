@@ -39,7 +39,7 @@ python main.py
 
 ## 🔧 Usage
 
-Simply run the executable or Python script and follow the on-screen instructions.
+Simply run the executable or Python script inside the game's (BOIII) main folder after installing mods/maps with [BOIIIWD](https://github.com/faroukbmiled/BOIIIWD).
 
 ## 🛠️ Building from Source
 
